@@ -27,7 +27,7 @@ module.exports = Application({
 ```
 
 ### package.json
-Add "waline-notification-slack-app": "latest" into package.json dependencies.
+Add `"waline-notification-slack-app": "latest"` into package.json dependencies.
 
 
 ## Environment Variables
