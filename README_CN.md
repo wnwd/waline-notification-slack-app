@@ -2,7 +2,7 @@
 
 中文文档 | [English Doc](./README.md)
 
-一个Waline插件，提供 **SlackBot** 通知功能。
+一个[**Waline**](https://waline.js.org/)插件，提供 [**Slack app**](https://api.slack.com/docs/apps) 通知功能。
 
 ## 如何安装
 ```shell

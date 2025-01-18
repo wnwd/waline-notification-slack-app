@@ -1,6 +1,6 @@
 # waline-notification-slack-app
 
-A Waline plugin that provide wecome group bot notification spport.
+A [**Waline**](https://waline.js.org/) plugin that provide [Slack app](https://api.slack.com/docs/apps) notification spport.
 
 [中文文档](./README_CN.md) | English Doc
 
