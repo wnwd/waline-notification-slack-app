@@ -12,7 +12,7 @@ npm install waline-notification-slack-app
 ## 如何使用
 编辑你的服务端 Waline 文件:
 
-waline.js
+index.js
 ```js
 const Application = require('@waline/vercel');
 const Slack = require('waline-notification-slack-app');
